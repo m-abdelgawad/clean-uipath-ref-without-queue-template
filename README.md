@@ -62,7 +62,7 @@
 * Organization Department: Technology
 
 ### Description
-I modified the UiPath Robotic Enterprise Framework to get the transaction data from a dataframe instead of a queue.
+I modified the UiPath Robotic Enterprise Framework to get the transaction data from a dataframe instead of a queue. I also moved the documentation files out of the project itself and placed them in the parent directory.
 
 This project includes the following features:
 * Clean structure.
