@@ -55,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![product-screenshot]
+<img src="images/cover.jpg" alt="Cover Image">
 
 * Project Name: Clean UiPath REF Without A Queue Project Template
 * Version: v1.0.0
@@ -129,7 +129,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Screensshots
 
-![product-screenshot]
+<img src="images/screenshot.jpg" alt="Screenshot Image">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -182,4 +182,3 @@ Resources that I found helpful during the development of this project:
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/m-abdelgawad/
-[product-screenshot]: images/screenshot.png
